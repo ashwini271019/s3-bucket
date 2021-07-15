@@ -5,15 +5,10 @@
             "Type":"AWS::S3::Bucket",
             "DeletionPolicy":"Delete",
             "Properties":{
-                "BucketName":" new-file-s3bucket-1xw3pdoq41424"
+                "BucketName":"new-file-s3bucket-1xw3pdoq41424"
             }
             
         }
 
-    },
-    "Outputs":{
-        
-            "Description":"deletion of sample Amazon S3 bucket"
-        }
-
+    }
     }
